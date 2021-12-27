@@ -7,4 +7,4 @@ loadstring(game:HttpGetAsync'https://raw.githubusercontent.com/blazerzs/blazerzs
 ```
 
 ## Developers
-- [blazers](https://github.com/fatesc) (Main Script Developer)
+- [blazerzs](https://github.com/fatesc) (Main Script Developer)
